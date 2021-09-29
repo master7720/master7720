@@ -2,11 +2,11 @@
 About me
 - 🔭 I’m currently working on: something
 - 🌱 I’m currently learning: JAVA and htlm
-- 👯 I’m looking to collaborate on...
-- 🤔 I’m looking for help with...
-- 💬 Ask me about...
+- 👯 I’m looking to collaborate on... maybe a hacked client
+- 🤔 I’m looking for help with... idk
+- 💬 Ask me about... idk
 - 📫 How to reach me: discord rockysaltagajn#3247
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... i dont use Pronouns bc i have a dad
 - ⚡ Fun fact: i will hacker man your mainframe!
 -->
 
