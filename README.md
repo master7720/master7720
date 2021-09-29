@@ -9,6 +9,7 @@ About me
 - 😄 Pronouns: ... i dont use Pronouns bc i have a dad
 - ⚡ Fun fact: i will hacker man your mainframe!
 -->
+![Profile Views](https://komarev.com/ghpvc/?username=master7720)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=master7720&theme=radical)
 
