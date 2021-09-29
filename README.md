@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**master7720/master7720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+About me
 - 🔭 I’m currently working on: something
 - 🌱 I’m currently learning: JAVA and htlm
 - 👯 I’m looking to collaborate on...
