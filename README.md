@@ -1,6 +1,5 @@
 ### Hi Yall   
 ![Profile Views](https://komarev.com/ghpvc/?username=master7720)
-
 About Me
 - 🔭 I’m currently working on ...something
 - 🌱 I’m currently learning ...java and sum html
