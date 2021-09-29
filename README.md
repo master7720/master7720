@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...something
+- 🔭 I’m currently working on ... something
 - 🌱 I’m currently learning ...JAVA and htlm
 - 👯 I’m looking to collaborate on ...nothin
 - 🤔 I’m looking for help with ...nothin
