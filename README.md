@@ -1,4 +1,5 @@
-### Hi Yall
+### Hi Yall   
+![Profile Views](https://komarev.com/ghpvc/?username=olliem5)
 About Me
 - 🔭 I’m currently working on ...something
 - 🌱 I’m currently learning ...java and sum html
