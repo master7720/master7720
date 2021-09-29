@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=master7720&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=master7720&repo=github-readme-stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=master7720&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
