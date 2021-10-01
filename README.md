@@ -4,8 +4,8 @@ Im a java developer
 
 #### - My discord : rockysaltagajn#3247
 #### - My ign : PreparedSystem32
-#### - my age 14
-#### - stuff about me.i am a 14 year old java developer thats wants to leanr more about java and html
+#### - my age : 14
+#### - about me : i am a 14 year old java developer thats wants to learn more about java and html
 ![Profile Views](https://komarev.com/ghpvc/?username=master7720)
 
 #
