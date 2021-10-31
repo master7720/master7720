@@ -7,6 +7,8 @@ Im a java developer
 #### - my age : 14
 #### - about me : i am a 14 year old java developer thats wants to learn more about java and html
 ![Profile Views](https://komarev.com/ghpvc/?username=master7720)
+
+
 <img src="https://discord.c99.nl/widget/theme-3/883534831940694016.png"></img>
 
 #
