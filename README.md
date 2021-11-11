@@ -1,3 +1,5 @@
+<img src="/top.svg"/>
+
 ## Hello 👋, Im master7720
 
 Im a java developer
@@ -39,3 +41,5 @@ Im a java developer
 <p align="center">
   <img src="https://count.getloli.com/get/@master7720?theme=gelbooru" />
 </p>
+
+<img src="/bottom.svg"/>
