@@ -20,9 +20,9 @@ Im a java developer
 
 ### 🚀 My Projects
 #### - Ethereum (Private client)
-#### - advanced ransomeware virus(very private)
-#### - advanced Trojan virus(private soon to be public)
-#### - memz virus(private)
+#### - advanced ransomeware(very private)
+#### - advanced Trojan(private soon to be public)
+#### - memz trojan(private)
 
   
 ### 👻 PPL I Work With
