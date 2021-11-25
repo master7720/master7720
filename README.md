@@ -37,6 +37,7 @@ Im a java developer
 - [@chimay red](https://github.com/Chimay-Red)
 - [@DagggotMc](https://github.com/DagggotMc)
 - [@T3chn0phyl3](https://github.com/T3chn0phyl3)
+- [@big daddy](https://github.com/Offender27)
 
 
 <p align="center">
