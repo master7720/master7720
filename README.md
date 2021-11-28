@@ -27,7 +27,6 @@ Im a java developer
   
 ### 👻 PPL I Work With
 
-- [@devmello](https://github.com/DevMello)
 - [@.exe](https://github.com/MSUgamer576)
 - [@cpj6789](https://github.com/cpj6789)
 - [@WomanAreTerrible](https://github.com/WomenAreTerrible)
@@ -36,7 +35,6 @@ Im a java developer
 - [@cumhax](https://github.com/CumHax)
 - [@chimay red](https://github.com/Chimay-Red)
 - [@DagggotMc](https://github.com/DagggotMc)
-- [@T3chn0phyl3](https://github.com/T3chn0phyl3)
 
 
 <p align="center">
