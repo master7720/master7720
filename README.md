@@ -4,7 +4,7 @@ Im a java developer
 
 #### - My ign : PreparedSystem32
 #### - my age : 15
-#### - about me : i am a 15 year old developer thats wants to learn more about java.batch,html and VBS
+#### - about me : 15 year old Programmer that want's to learn more about Java,html,batch,c++ and java script
 ![Profile Views](https://komarev.com/ghpvc/?username=master7720)
 
 
