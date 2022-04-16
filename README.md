@@ -8,7 +8,8 @@ Im a java developer
 ![Profile Views](https://komarev.com/ghpvc/?username=master7720)
 
 
-<img src="https://discord.c99.nl/widget/theme-3/883534831940694016.png"></img>
+
+<img src="https://discord.c99.nl/widget/theme-3/925299365906632754.png"></img>
 
 #
 
