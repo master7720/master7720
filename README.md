@@ -8,7 +8,8 @@ Im a java developer
 ![Profile Views](https://komarev.com/ghpvc/?username=master7720)
 
 
-<img src="https://discord.c99.nl/widget/theme-3/883534831940694016.png"></img>
+My new discord is Master7720#2143
+old one got termed so add my new one
 
 #
 
