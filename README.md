@@ -1,5 +1,2 @@
-## Hi there 👋
-
-I am a 18 year old programmer learning java,kotlin and java bytecode
-
+## Fame
 ![Profile Views](https://komarev.com/ghpvc/?username=master7720)
